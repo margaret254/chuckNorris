@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/chuckNorris/static/css/main.a6e83da7.chunk.css",
+    "main.js": "/chuckNorris/static/js/main.f1d960dc.chunk.js",
+    "main.js.map": "/chuckNorris/static/js/main.f1d960dc.chunk.js.map",
+    "runtime-main.js": "/chuckNorris/static/js/runtime-main.838bbee4.js",
+    "runtime-main.js.map": "/chuckNorris/static/js/runtime-main.838bbee4.js.map",
+    "static/js/2.68f2b285.chunk.js": "/chuckNorris/static/js/2.68f2b285.chunk.js",
+    "static/js/2.68f2b285.chunk.js.map": "/chuckNorris/static/js/2.68f2b285.chunk.js.map",
+    "index.html": "/chuckNorris/index.html",
+    "precache-manifest.30e04afc4736508c39e065beff0f53d9.js": "/chuckNorris/precache-manifest.30e04afc4736508c39e065beff0f53d9.js",
+    "service-worker.js": "/chuckNorris/service-worker.js",
+    "static/css/main.a6e83da7.chunk.css.map": "/chuckNorris/static/css/main.a6e83da7.chunk.css.map",
+    "static/js/2.68f2b285.chunk.js.LICENSE.txt": "/chuckNorris/static/js/2.68f2b285.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/chuckNorris/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.838bbee4.js",
+    "static/js/2.68f2b285.chunk.js",
+    "static/css/main.a6e83da7.chunk.css",
+    "static/js/main.f1d960dc.chunk.js"
+  ]
+}
