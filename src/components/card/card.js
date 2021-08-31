@@ -58,27 +58,13 @@ class Card extends Component {
 
                  <div class="profile-card__cnt js-profile-cnt">
                          <div class="card_category">{activeCategory.toUpperCase()}</div>
-                         <div class="profile-card__txt">{joke.value}</div>
-
-
-                         {/* <div class="joke-card-inf">
-                             <div class="joke-card-inf__item">
-
-                                 {joke.updated_at!==undefined && <div class="joke-card-inf__txt">updated: <Moment  format="D MMM YYYY">{joke.updated_at}</Moment></div>}
-                             </div>
-
-
-                         </div> */}
-
-                         <div class="joke-card-social">
-
-
-
-
+                         <div class="profile-card__txt">{joke.value}
                          </div>
+                       
+
 
                          <div class="joke-card-ctr">
-                             <button class="profile-card__button button--blue js-message-btn" onClick={() => { this.nextJoke("Random") }}>Random</button>
+                             
                              <button class="profile-card__button button--orange" onClick={() => { this.nextJoke(joke.categories[0]) }}>Next</button>
                          </div>
                      </div>
